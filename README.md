@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Inspired by Clever Programmers tutorial
 Deployed app via firebase: https://tiktok-clone-e9e3b.web.app
+With this link, app videos only display on Google Chrome, not Safari
 
 ## Available Scripts
 
